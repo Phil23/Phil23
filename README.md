@@ -8,7 +8,9 @@ I’m passionate about fostering a culture of open communication, continuous lea
 
 During my time at Shopware, I’ve contributed to its remarkable growth — helping the company expand from around 40 to over 400 employees. I’ve played an active role in several organizational and operational transformations that have evolved Shopware into a mature, professional software company.
 
-I believe in user-centric, autonomous teams that go beyond writing code — teams that embrace the complexity of the customer’s problem domain. I advocate for continuous delivery and code ownership, not as policy, but as part of a seamless continuum of care: “You build it, you run it.”
+I believe in user-centric, autonomous teams that go beyond writing code — teams that embrace the complexity of the customer’s problem domain. I advocate for continuous delivery and code ownership, not as policy, but as part of a seamless continuum of care:  
+
+“You build it, you run it.”
 
 ## ⚙️ **Professional Focus & Expertise**
 
