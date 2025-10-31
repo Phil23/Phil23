@@ -12,7 +12,7 @@ I believe in user-centric, autonomous teams that go beyond writing code — team
 
 “You build it, you run it.”
 
-## ⚙️ **Professional Focus & Expertise**
+## 👤 **Professional Focus & Expertise**
 
 - 💡 **Leadership & Mentoring** – Helping people grow and build strong, autonomous teams.
 - 🧭 **Organizational Transformation** – Driving change towards modern engineering and product practices.
